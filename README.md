@@ -1,0 +1,11 @@
+- 👋 Hi, I’m @ritikgowardhan
+- 👀 I’m interested in ...Data science and analytics,python
+- 🌱 I’m currently learning ...data science and analytics
+- 💞️ I’m looking to collaborate on ...tech companies
+- 📫 How to reach me ...ritikgowardhan00@gmail.com
+- 
+
+<!---
+ritikgowardhan/ritikgowardhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
