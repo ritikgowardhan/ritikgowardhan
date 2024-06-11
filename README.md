@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @ritikgowardhan
 - 👀 I’m interested in ...full stack Devlopment & Data science , analytics,python
-- 🌱 I’m Working on...data science and analytics
+- 🌱 I’m Working as a Full Stack Devloper.
 - 💞️ I’m looking to collaborate on ...tech companies
 - 📫 How to reach me ...ritikgowardhan00@gmail.com
+- Linked IN - https://www.linkedin.com/in/ritik-gowardhan-854634222?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 
 - 
 
 <!---
