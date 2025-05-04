@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @ritikgowardhan
-- 👀 I’m interested in ...full stack Devlopment & Data science , analytics,python
-- 🌱 I’m Working as a Full Stack Devloper.
-- 💞️ I’m looking to collaborate on ...tech companies
-- 📫 How to reach me ...ritikgowardhan00@gmail.com
+👋 Hi, I’m Ritik Gowardhan
+💻 QA Tester | Automation Enthusiast | Python Learner
+🔍 Currently focused on Test Automation using tools like Selenium and TestCafe
+🚀 Learning automation to build efficient and reliable test suites
+🤝 Open to collaborating on tech projects and automation challenges
+📬 Reach me at ritikgowardhan00@gmail.com
 - Linked IN - https://www.linkedin.com/in/ritik-gowardhan-854634222?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
   
 
